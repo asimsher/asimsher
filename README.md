@@ -62,3 +62,7 @@
 ### 🐍 Каткан жылан
 
 ![snake gif](https://github.com/asimsher/asimsher/blob/output/github-contribution-grid-snake.svg)
+
+### GitHub аракеттерим
+
+![GitHub Аракеттери](https://github-readme-activity-graph.vercel.app/graph?username=asimsher&theme=github)
