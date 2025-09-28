@@ -20,7 +20,7 @@
 
 ### 📲 Мени менен байланыш
 <p align="left">
-  <a href="https://instagram.com/erjankadyrov2006" target="_blank">
+  <a href="https://www.instagram.com/rysmamatov.azim/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -30,7 +30,6 @@
 ### 🧰 Колдонгон тилдер жана куралдар:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
