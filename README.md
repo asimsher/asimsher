@@ -1,5 +1,6 @@
-<h1 align="center">Салам 👋, Мен Асим Шермин</h1>
-<h3 align="center">💻 Кыргызстандан келген таланттуу программистмин</h3>
+<h1 align="center">Hi 👋, I'm Azim Sher</h1>
+<h3 align="center">💻 A passionate Backend Developer from Kyrgyzstan</h3>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -9,10 +10,10 @@
 
 ---
 
-- 🔭 I’m currently working on [Course Project](https://github.com/KadyrovErjan/Logo)
+- 🔭 I’m currently working on [Course Project]()
 - 🌱 Currently learning **Motion Web**
-- 🤝 I’m looking to collaborate on [TravelKG](https://github.com/SalahidinAI/TravelKG/)
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/KadyrovErjan/)
+- 🤝 I’m looking to collaborate on [TravelKG]()
+- 👨‍💻 All of my projects are available on [GitHub]()
 - 💬 Ask me about **Python, Django, FastAPI**
 - 📫 Reach me at: **kadyroverjan007@gmail.com**
 ---
