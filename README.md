@@ -1,20 +1,55 @@
-### Салам! 👋 Мен Асим Шермин
+<h1 align="center">Салам 👋, Мен Асим Шермин</h1>
+<h3 align="center">💻 Кыргызстандан келген таланттуу программистмин</h3>
 
-Мен Кыргызстандан келген жаш программистмин. Технологияга, жаңы нерселерди үйрөнүүгө жана кызыктуу долбоорлорду иштеп чыгууга абдан кызыгам. Учурда Python жана JavaScript тилдеринде иштеп жатам.
-
----
-
-### Менин жөндөмдөрүм
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=asimsher&theme=onedark" alt="Trophies">
+  </a>
+</p>
 
 ---
 
-### Мени менен байланыш
+- 🔭 Учурда [Бул жерге учурдагы долбооруңуздун шилтемесин же атын жазыңыз] менен иштеп жатам.
+- 🌱 Учурда **Python, JavaScript, Git** жана башкаларды үйрөнүп жатам.
+- 🤝 [Бул жерге кызматташууга кызыккан долбооруңуздун атын же шилтемесин жазыңыз].
+- 💬 **Python, Django, FastAPI** жөнүндө суроолоруңуз болсо, мага кайрылыңыз.
+- 📫 Мага бул жерден кайрылсаңыз болот: **kadyroverjan007@gmail.com** (бул жерге өзүңүздүн почтаңызды жазыңыз).
+- 📄 Менин резюмемди [бул жерден](https://www.canva.com/design/DAGtGriTqdI/66DTVS0J4Z4glKZV0TPDRg/view?utm_content=DAGtGriTqdI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks) көрө аласыз. (резюмеңиздин шилтемесин алмаштырыңыз).
 
-* **Email:** your-email@example.com (бул жерге өзүңүздүн электрондук почтаңызды жазыңыз)
-* **LinkedIn:** [Аты-жөнүңүз](https://www.linkedin.com/in/yourprofile) (бул жерге өзүңүздүн LinkedIn профилиңиздин шилтемесин коюңуз)
+---
+
+### 📲 Мени менен байланыш
+<p align="left">
+  <a href="https://instagram.com/erjankadyrov2006" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Колдонгон тилдер жана куралдар:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+</p>
+
+---
+
+### 📊 GitHub статистикасы:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimsher&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=asimsher&show_icons=true&locale=en&theme=radical" alt="Stats" />
+</p>
+
+---
+
+### 🐍 Каткан жылан
+
+![snake gif](https://github.com/asimsher/asimsher/blob/output/github-contribution-grid-snake.svg)
