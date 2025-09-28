@@ -9,11 +9,12 @@
 
 ---
 
-- 🌱 Учурда **Python, Git** жана башкаларды үйрөнүп жатам.
-- 💬 **Python, Django, FastAPI** жөнүндө суроолоруңуз болсо, мага кайрылыңыз.
-- 📫 Мага бул жерден кайрылсаңыз болот: **azimsherrysamamatov09@gmail.com**
-- 📄 Менин резюмемди [бул жерден](?) көрө аласыз.
-
+- 🔭 I’m currently working on [Course Project](https://github.com/KadyrovErjan/Logo)
+- 🌱 Currently learning **Motion Web**
+- 🤝 I’m looking to collaborate on [TravelKG](https://github.com/SalahidinAI/TravelKG/)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/KadyrovErjan/)
+- 💬 Ask me about **Python, Django, FastAPI**
+- 📫 Reach me at: **kadyroverjan007@gmail.com**
 ---
 
 ### 📲 Мени менен байланыш
