@@ -15,7 +15,7 @@
 - 🤝 I’m looking to collaborate on [TravelKG]()
 - 👨‍💻 All of my projects are available on [GitHub]()
 - 💬 Ask me about **Python, Django, FastAPI**
-- 📫 Reach me at: **kadyroverjan007@gmail.com**
+- 📫 Reach me at: ****
 ---
 
 ### 📲 Мени менен байланыш
