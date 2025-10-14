@@ -14,10 +14,10 @@
 
 ---
 
-- 🔭 I’m currently working on [Course Project]()
+- 🔭 I’m currently working on
 - 🌱 Currently learning **Motion Web**
-- 🤝 I’m looking to collaborate on [TravelKG]()
-- 👨‍💻 All of my projects are available on [GitHub]()
+- 🤝 I’m looking to collaborate on 
+- 👨‍💻 All of my projects are available on 
 - 💬 Ask me about **Python, Django, FastAPI**
 - 📫 Reach me at: ****
 ---
@@ -62,10 +62,6 @@
 </p>
 
 ---
-
-### 🐍 Каткан жылан
-
-![snake gif](https://github.com/asimsher/asimsher/blob/output/github-contribution-grid-snake.svg)
 
 ### GitHub аракеттерим
 
